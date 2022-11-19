@@ -40,21 +40,35 @@
               <ion-row class="ion-justify-content-center">
                 <ion-col>
                   <ion-item fill="outline">
-                    <ion-input placeholder="ID Pengajar"></ion-input>
+                    <ion-input name="username" placeholder="User Name"></ion-input>
+                  </ion-item>
+                </ion-col>
+              </ion-row>
+              <ion-row class="ion-justify-content-center">
+                <ion-col>
+                  <ion-item fill="outline">
+                    <ion-input name="fname" placeholder="First Name"></ion-input>
+                  </ion-item>
+                </ion-col>
+              </ion-row>
+              <ion-row class="ion-justify-content-center">
+                <ion-col>
+                  <ion-item fill="outline">
+                    <ion-input name="lname" placeholder="Last Name"></ion-input>
                   </ion-item>
                 </ion-col>
               </ion-row>
               <ion-row class="ion-justify-content-start">
                 <ion-col>
                   <ion-item fill="outline">
-                    <ion-input placeholder="Email"></ion-input>
+                    <ion-input name="email" placeholder="Email"></ion-input>
                   </ion-item>
                 </ion-col>
               </ion-row>
               <ion-row class="ion-justify-content-start">
                 <ion-col>
                   <ion-item fill="outline">
-                    <ion-input placeholder="Password" type="password"></ion-input>
+                    <ion-input name="password" placeholder="Password" type="password"></ion-input>
                   </ion-item>
                 </ion-col>
               </ion-row>
