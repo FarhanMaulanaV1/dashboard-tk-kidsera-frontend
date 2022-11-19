@@ -17,6 +17,7 @@
     "@capacitor/status-bar": "4.1.0",
     "@ionic/vue": "^6.0.0",
     "@ionic/vue-router": "^6.0.0",
+    "bootstrap": "^5.2.2",
     "core-js": "^3.6.5",
     "ionicons": "^6.0.3",
     "vue": "^3.2.21",
@@ -45,5 +46,8 @@
     "ts-jest": "^27.0.7",
     "typescript": "^4.3.5"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project",
+  "config": {
+    "ionic_sass": "./sass.config.js"
+  }
 }
