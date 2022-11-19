@@ -1,5 +1,9 @@
-List Anggota <br>
-Kelompok <br>
-Farhan Maulana Azis - 1313621033 <br>
-Handrian Wibisono - 1313621036 <br>
-Muhammad Alfin Khaerudin - 1313621003 <br>
+Update<br>
+Uploading Ionic FrameWork Rev-1<br>
+
+<br>
+
+To do List <br>
+-SignUp.vue not yet done<br>
+-Signin.vue and dashboard.vue not imported yet <br>
+
